@@ -1,0 +1,10 @@
+{
+    "prod": {
+        "app_function": "myskill.app",
+        "profile_name": "personal",
+        "project_name": "echo",
+        "runtime": "python3.6",
+        "s3_bucket": "zappa-scripture-stories",
+        "aws_region": "us-west-2"
+    }
+}
